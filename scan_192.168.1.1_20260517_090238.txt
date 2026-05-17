@@ -1,0 +1,7 @@
+Port scan Report
+target : 192.168.1.1
+scan duration : 5 seconds
+open ports : 2
+----------------------------------------
+Port 53 is open (DNS)
+Port 80 is open (HTTP)
