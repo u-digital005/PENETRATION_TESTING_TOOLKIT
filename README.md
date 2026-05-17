@@ -31,7 +31,7 @@ The project also uses colorama library to show output in different colors so it 
 
 So overall, this project helped me understand how real world security tools work. I learned how sockets work in Python, how threading can make programs faster, and how attackers think when they try to break into systems. This toolkit is only for educational purposes and should only be used on systems where you have permission. I think every computer science student should learn about cybersecurity basics because in today's world, every application needs to be secure.
 
-#Output:
+# Output:
 1st
 
 <img width="797" height="683" alt="Image" src="https://github.com/user-attachments/assets/9d695c84-975d-4e89-a36e-6bc5e7e86a54" />
